@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @tejashreemn130100
 - 👀 I’m interested in HTML,CSS,JAVASCRIPT LEARNING
-- 🌱 I’m currently learning HTML,CSS,JAVASCRIP
+- 🌱 I’m currently learning HTML,CSS,JAVASCRIPT
 
 
 
